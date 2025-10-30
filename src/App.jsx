@@ -87,7 +87,7 @@ function App() {
   return (
     <div className="container">
       <div className="heading">
-        <h1>Planify</h1>
+        <h1>Taxky</h1>
       </div>
 
       <div className="form">
