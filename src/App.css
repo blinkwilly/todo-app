@@ -9,7 +9,7 @@ body {
   justify-content: center;
   align-items: center;
   color: #e0e0e0;
-  font-family: "Architects Daughter", cursive;
+  font-family: "Architects Daughter", "Poppins", sans-serif;
   text-align: center;
   font-size: 130%;
 }
